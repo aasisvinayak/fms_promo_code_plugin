@@ -16,5 +16,6 @@ class PromoCode  implements Plugin
          */
         public static function main()
         {
+                echo "hello";
         }
 }
