@@ -1,0 +1,5 @@
+plugin_name: PromoCode
+plugin_version: 0.0.1
+author_name: acev
+plugin_support_email: aasisvinayak@gmail.com
+plugin_description: This extends the ability of FlyMyShop to enable users enter promo code that will be applied to the checkout cart.
